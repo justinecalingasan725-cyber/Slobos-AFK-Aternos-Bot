@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": truegv ,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "Di ako bot, tarantado",
         "Putamg ina mo",
-        "Badingg"
+        "Badingg yarn"
       ]
     },
     "chat-log": true,
@@ -69,8 +69,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
-    "place-night": true
+    "pick-up-day": false,
+    "place-night": false
   },
   "discord": {
     "enabled": false,
